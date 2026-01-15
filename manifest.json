@@ -14,7 +14,7 @@
         "js":["scripts/content.js"],
         "matches":["https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*",
-        "https://theprint.in/*"]
+        "https://theprint.in/*","https://www.hindustantimes.com/*","https://www.aljazeera.com/*","https://timesofindia.indiatimes.com/*","https://www.ndtv.com/*"]
     }
   ],
   "action":{
